@@ -6,5 +6,4 @@ Adding further text as a dummy change.
  
 ## Second commit
 Adding a simple line
-
-So this is lost?
+Seeing if this is ok
